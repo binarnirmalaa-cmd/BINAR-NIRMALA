@@ -1,0 +1,17 @@
+BINAR NIRMALA — WEBSITE INFAK SARAPAN
+
+- index.html: website responsif dengan tujuh bagian.
+- binar-nirmala.svg: logo transparan.
+- batik-kawung.svg: motif latar bagian lain.
+- batik-kawung-beranda.svg: motif khusus Beranda yang bergerak vertikal.
+- alwi-nurhidayat.png: foto pendiri.
+- bukti-transfer-01.jpg sampai bukti-transfer-04.jpg: empat bukti penerimaan yang dapat dibuka satu per satu; nama pengirim, ID transaksi, dan rincian rekening dipotong/disamarkan.
+- penyaluran-ngasem-01.jpg dan penyaluran-ngasem-02.jpg: dokumentasi penyaluran dengan wajah penerima ditutup.
+- bukti-belanja-sarapan.jpg dan bukti-belanja-es-teh.jpg: foto nota nasi ayam dan es teh tanpa sensor.
+- qris-binar-nirmala.png: QRIS yang ditampilkan sebagai informasi saja; pengumpulan telah ditutup dan QR tidak digunakan untuk pembayaran.
+
+Status program: pengumpulan ditutup pada 19 November 2026. Dana aktual Rp30.000 dari empat transaksi telah digunakan seluruhnya untuk 2 porsi nasi ayam (Rp24.000) dan 2 gelas es teh (Rp6.000) yang dibagikan di Jalan Ngasem pada 21 November 2026. Saldo akhir Rp0.
+
+Laporan dana memiliki tab Ringkasan, Penerimaan, dan Alokasi dana. Empat bukti transaksi dapat dibuka satu per satu dari Galeri Bukti. Data pengirim, ID transaksi, dan rincian rekening dipotong/disamarkan. Bukti penyaluran dan nota belanja tersedia di galeri. Kalkulator hanya menghitung nilai setara anggaran porsi dan tidak memproses pembayaran.
+
+Untuk mengedit, buka index.html di editor teks atau VS Code. Simpan aset website yang tercantum di atas bersama file tersebut. Untuk hosting statis, unggah isi ZIP terbaru ke GitHub Pages.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title desc">
+  <title id="title">BINAR NIRMALA</title>
+  <desc id="desc">Logo transparan dengan lengkung mihrab, bintang geometri, dan motif kawung.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 132V72C14 35 40 11 77 8c37 3 63 27 63 64v60" stroke="#173d37" stroke-width="4"/>
+    <path d="M25 132V74c0-31 21-51 52-54 31 3 52 23 52 54v58" stroke="#c69a52" stroke-width="2"/>
+    <path d="M77 35 85 53 103 45 95 63 113 71 95 79 103 97 85 89 77 107 69 89 51 97 59 79 41 71 59 63 51 45 69 53Z" fill="#e9d7a5" stroke="#173d37" stroke-width="2.3"/>
+    <circle cx="77" cy="71" r="9" fill="#8e493b" stroke="#fff8e8" stroke-width="2"/>
+    <path d="M77 106c-2 9-8 15-18 18m18-18c2 9 8 15 18 18" stroke="#173d37" stroke-width="3"/>
+    <path d="M43 112c7-8 15-8 22 0-7 8-15 8-22 0Zm46 0c7-8 15-8 22 0-7 8-15 8-22 0Z" fill="#c69a52" stroke="#173d37" stroke-width="1.5"/>
+    <path d="M165 112h365" stroke="#c69a52" stroke-width="1.5"/>
+  </g>
+  <text x="166" y="68" fill="#173d37" font-family="Georgia,serif" font-size="37" font-weight="700" letter-spacing="2">BINAR NIRMALA</text>
+  <text x="168" y="98" fill="#8e493b" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">CAHAYA KETULUSAN SESAMA</text>
+  <text x="168" y="128" fill="#64736a" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">FILANTROPI ISLAM · YOGYAKARTA</text>
+</svg>
